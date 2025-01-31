@@ -55,4 +55,3 @@ https://javascript.plainenglish.io/debugging-nestjs-in-vscode-d474a088c63b
 
 ### Unauthenticated API
 Add the "external" in API route path to make API unauthenticated (should define in the separate external controller)
-#### Queuing-system-Generic-repo-
